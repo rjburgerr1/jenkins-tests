@@ -5,12 +5,13 @@
   <artifactId>my-app</artifactId>
   <version>1</version>
   
-  
+  <dependencies>
   <dependency>
   <groupId>org.testng</groupId>
   <artifactId>testng</artifactId>
   <version>6.10</version>
   <scope>test</scope>
 </dependency>
+      </dependencies>
 
 </project>
